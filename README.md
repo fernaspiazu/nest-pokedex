@@ -16,7 +16,7 @@
 3. Install Nest CLI
 
    ```shell
-   npm i -g @nextjs/cli
+   npm i -g @nestjs/cli
    ```
 
 4. Deploy MongoDB instance
